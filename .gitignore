@@ -1,0 +1,5 @@
+*.h5
+_vizdoom*
+*.wad
+models
+episodes
